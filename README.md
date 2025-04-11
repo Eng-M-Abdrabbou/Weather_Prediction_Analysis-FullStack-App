@@ -22,16 +22,16 @@ This application follows a standard **Client-Server** architecture:
 
 
 ### Weather Information
-![Weather Info](Images\WthrInfo.png)
+![Weather Info](/Images/WthrInfo.png)
 
 ### Map View
-![Map](Images\Map.png)
+![Map](/Images/Map.png)
 
 ### Hourly Forecasting
-![Hourly Forecasting](Images\HrForecast.png)
+![Hourly Forecasting](/Images/HrForecast.png)
 
 ### Air Quality Index
-![Air Quality Index](Images\AQI.png)
+![Air Quality Index](/Images/AQI.png)
 
 
 
@@ -233,4 +233,4 @@ Now you can use the application in your browser. The frontend (on port 3000) wil
 
 ## API Key Security Note
 
-For demonstration purposes, the API key is placed in `application.properties`. **In a production environment, never commit API keys directly into your code repository.** Use environment variables, Spring Cloud Config, or a dedicated secrets management service.
+For demonstration purposes, the API key is placed in `application.properties`.
