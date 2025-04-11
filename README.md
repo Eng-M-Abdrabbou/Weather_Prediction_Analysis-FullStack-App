@@ -186,7 +186,7 @@ fullstack-weather-app/ (Root Directory)
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-combined-repo-url>
+    git clone https://github.com/Eng-M-Abdrabbou/Weather_Prediction_Analysis-FullStack-App.git
     cd fullstack-weather-app
     ```
 
