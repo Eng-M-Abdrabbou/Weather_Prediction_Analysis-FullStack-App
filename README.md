@@ -1,4 +1,4 @@
-# Java Full Stack Weather Forecast and Analysis Application
+# Java Spring-boot and ReactJS Full Stack Weather Forecast and Analysis Application
 
 This project is a simple weather forecast and analysis application featuring a React frontend and a Spring Boot backend. It allows users to search for weather by city and displays current conditions, a 5-day/3-hour forecast, air quality index, and a location map.
 
