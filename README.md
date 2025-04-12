@@ -131,6 +131,8 @@ This file (the one you are currently reading the description of) provides a high
 
 ## Project Structure
 
+```
+
 fullstack-weather-app/ (Root Directory)
 ├── weather-backend/ # Spring Boot Backend Code
 │ ├── pom.xml
@@ -181,6 +183,8 @@ fullstack-weather-app/ (Root Directory)
 │     │   └── WeatherMap.js
 │     └── ... (other source files)
 └── README.md # Project Root Readme
+
+```
 
 ## Setup
 
